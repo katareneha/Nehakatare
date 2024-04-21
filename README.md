@@ -1,3 +1,3 @@
 # Nehakatare
 my first repository
-neha katare
+author:- neha katare
